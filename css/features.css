@@ -1,0 +1,77 @@
+
+.main .h2say{line-height: 145px;padding-top: 27px;font-size: 20px;height: 145px;text-align: center;}
+.main .h2so{line-height: 107px;font-size: 20px;height: 107px; text-align: center;padding-top: 32px;}
+.main .tutext{text-align: center;}
+.main .tutext .tutext_inner{
+	width: 380px;
+	height: 235px;
+	float: left;
+	position: relative;
+}
+.main .tutext .tutext_inner .img{width: 80px;height: 80px;background:url(../images/img-sprite.png) no-repeat -11px -10px;margin-left: 150px;}
+.main .tutext .san .img{width: 80px;height: 80px;background:url(../images/img-sprite.png) no-repeat -112px -10px;margin-left: 150px;}
+.main .tutext .si .img{width: 80px;height: 80px;background:url(../images/img-sprite.png) no-repeat -210px -10px;margin-left: 150px;}
+.main .tutext .wu .img{width: 80px;height: 80px;background:url(../images/img-sprite.png) no-repeat -310px -10px;margin-left: 150px;}
+.main .tutext .liu .img{width: 80px;height: 80px;background:url(../images/img-sprite.png) no-repeat -410px -10px;margin-left: 150px;}
+.main .tutext .tutext_inner h4{line-height: 37px;height: 37px;margin-top: 15px;}
+.main .tutext .tutext_inner p{line-height: 23px;font-size: 12px;margin: 0 34px;}
+.main .tutext .tutext_inner .img2 img{width: 380px;position: absolute;right: 0;top:-15px ;}
+.main{
+	width: 1148px; margin: 0 auto;
+	padding-top: 72px;
+	height: 1066px;
+}
+
+.main .m_sm{
+	height: 278px;
+	margin-bottom: 1px;
+}
+.shuoming{
+	width: 356px;;
+	height: 128px;
+	float: left;
+	background: url(../images/ser-bg.png) no-repeat;
+	margin:0 20px 22px 0;
+}
+.shuoming .left{
+	width:66px;
+	height: 123px;
+	background:#ed5844 url(../images/s-icons.png) no-repeat;
+	float: left;
+}
+.shuoming .yi{
+	background-position: 18px 43px;
+}.shuoming .er{
+	background-position: -66px 43px;
+}
+.shuoming .san{
+	background-position: -144px 43px;
+}
+.shuoming .si{
+	background-position:   22px -76px;
+}
+.shuoming .wu{
+	background-position:   -65px -70px;
+}
+.shuoming .liu{
+	background-position:   -144px -70px;
+}
+.shuoming .right{
+	width:264px;
+	height: 123px;
+	background: #f5f5f5;
+	float: left;
+	box-shadow:5 5 5px 0 rgba(245,245,245,0.5);
+	padding-left: 22px;
+}
+.shuoming .right h3{
+	line-height: 36px;
+	height: 36px;
+	font-size: 14px;
+	padding-top:12px;
+}
+.shuoming .right p{
+	line-height: 20px;
+	height: 20px;
+	font-size: 12px;
+}

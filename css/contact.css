@@ -1,0 +1,10 @@
+.main{width: 1140px;margin: 0 auto;text-align: center;}
+.main h2{line-height: 96px;font-size: 30px;padding-top: 56px;font-weight: normal;}
+.main p{line-height: 23px;font-size: 13px;padding: 0 136px;}
+.ziliao{margin-top: 30px;}
+form .text{padding:0 16px;width: 334px;height: 47px;background-color: #ededed;line-height: 47px;font-size: 18px;border-radius: 4px;border: 1px solid #dcdbe0;}
+form .email{padding:0 16px;width: 334px;height: 47px;background-color: #ededed;line-height: 47px;font-size: 18px;border-radius: 4px;border: 1px solid #dcdbe0;}
+form .submit{width:226px;height: 58px;background-color: #ed5844;line-height: 58px;font-size: 20px;text-align: center;
+margin: 45px 0 42px;border-radius: 4px;box-shadow: 0 0 8px rgba(0,0,0,0.5) inset;cursor: pointer;color: #FFF;}
+form textarea{width: 1080px;height: 250px;background-color: #ededed;margin-top: 24px;font-size: 17px; line-height: 47px;padding:0 16px;}
+
